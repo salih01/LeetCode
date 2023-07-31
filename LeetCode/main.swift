@@ -135,5 +135,6 @@ class OneDArray{
 
 
 var oneArray = OneDArray()
-oneArray.runningSum([3,4,5])
+var dizi : Array = [2,3,4]
+oneArray.runningSum(dizi)
 
